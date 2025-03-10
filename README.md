@@ -1,4 +1,4 @@
-Dessert Clicker app
+Dessert Clicker app - 22110020_HoThanhDat
 =====================
 
 Code for Android Basics with Compose Codelab.
